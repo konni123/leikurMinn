@@ -1,5 +1,5 @@
 #  Efnisyfirlit
-- [verkefni 1](https://github.com/konni123/leikurMinn/blob/main/verkefni%22/konni.txt)
+- [verkefni 1](https://github.com/konni123/leikurMinn/blob/main/verkefni%202/konni.txt)
 - [verkefni 2](https://www.mbl.is)
 # Verkefni Skil
 - [verkefni 1](https://github.com/konni123/leikurMinn/blob/main/verkefni1/skjal.md)
